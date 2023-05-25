@@ -1,0 +1,83 @@
+.container {
+    border: 2px solid white;
+box-sizing: content-box;
+
+}
+
+.apply {
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+
+.save {
+    background-color: rgb(10, 2102, 194);
+    border-radius: 30px;
+    color:blue;
+    height: 30px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.req {
+    background-color: black;
+    color:white;
+
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 110px;
+    cursor: pointer;
+
+}
+.req:hover {
+    background-color: green;
+    opacity: 0.3;
+  }
+
+.amazon-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 30px;
+    width: 140px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
+  .github-button{
+    background-color: green;
+    color:white;
+    height: 30px;
+    width: 140px;
+    border:none;
+    cursor: pointer;
+
+  }
+
+  .github-button:hover {
+    box-shadow: 10px 10px 10px  rgba(0, 0, 0, 15);
+  }
+
+  .back-button {
+    margin-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+  }
+
+  .search-result {
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 18px;
+  }
+
+  .next-button {
+    margin-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+  }
