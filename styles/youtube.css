@@ -1,0 +1,63 @@
+.pclass {
+  color: blue;
+}
+
+.thumbnail {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  object-position: left;
+  border-width: 2px;
+  border-color: rgb(196, 16, 16);
+  border-style: solid;
+}
+
+.search-bar {
+  align-items: bottom;
+  font-size: 20px;
+}
+
+.image1 {
+  width: 200px;
+  border-radius: 15px;
+  margin-left: 25px;
+}
+
+.image2 {
+  width: 200px;
+  margin-left: 25px;
+}
+
+.image3 {
+  width: 200px;
+  border-radius: 100px;
+  margin-left: 25px;
+}
+
+.searchbox {
+  border-radius: 8px;
+  height: 36px;
+}
+
+.searchbox1 {
+  border-radius: 12px;
+  height: 36px;
+  box-shadow: 10px 5px 5px red;
+}
+
+.click {
+  font-family: sans-serif;
+}
+
+.joinButton {
+  background-color: rgb(19, 19, 250);
+  border-radius: 13px;
+  height: 36px;
+  width: 360px;
+}
+
+.apply {
+  background-color: blue;
+  color: white;
+  border-radius: 30px;
+}

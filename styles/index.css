@@ -1,0 +1,92 @@
+.searchbox {
+  border-radius: 8px;
+  height: 36px;
+}
+
+.image-title {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+  height: 300px;
+  line-height: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.video-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  width: 300px;
+  line-height: 25px;
+  margin-top: 10px;
+}
+
+.video-stats {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rebeccapurple;
+  margin-top: 0;
+}
+
+.video-author {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+.video-desc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: brown;
+  line-height: 20px;
+  width: 220px;
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-bottom: 50px;
+}
+
+.span-example {
+  color: white;
+  margin-left: 15px;
+}
+
+.span-example:hover {
+  text-decoration: underline;
+}
+
+.video-preview {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.channel-picture {
+  display: inline-block;
+  width: 50px;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+}
+
+.channel-profile {
+  width: 40px;
+  height: 40px;
+}
